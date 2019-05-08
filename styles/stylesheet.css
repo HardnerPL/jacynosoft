@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    flex: 1 0 auto;
+}
+
+.text-color-brown {
+    color: brown;
+}
+
+.text-color-silver {
+    color: silver;
+}
+
+.text-color-gold {
+    color: gold;
+}
+
+.dark-hr {
+    background-color: grey;
+    margin: 10px 0 6px 0;
+}
+
+#login-form {
+    width: 30%;
+}
+
+#learn-form {
+    width: 30%;
+}
+
+#footer {
+    flex-shrink: 0;
+}
