@@ -5,7 +5,7 @@ class DatabaseManager {
     public static $link;
 
     public static function link() {
-        self::$link = mysqli_connect('localhost', 'root', '', 'english-learning');
+        self::$link = mysqli_connect('host', 'user', 'password', 'database');
         mysqli_set_charset(self::$link, 'utf8mb4');
     }
 
@@ -35,4 +35,4 @@ class DatabaseManager {
     }
 }
 
-DatabaseManager::link();
+//DatabaseManager::link();

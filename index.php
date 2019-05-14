@@ -6,7 +6,19 @@ and open the template in the editor.
 -->
 
 <?php
-define("ROOT", $_SERVER['DOCUMENT_ROOT'] . '/jacynosoft/');
-require_once ROOT . "controller/Home.php";
+define("ROOT", $_SERVER['DOCUMENT_ROOT'] . '/home/');
+require_once ROOT . "framework/Framework.php";
 
-(new Home())->index();
+$prefix = "/home/";
+$url = str_replace($prefix, "", $_SERVER['REQUEST_URI']);
+switch ($url) {
+    case "index":
+    case "index.php":
+    case "":
+        require_once ROOT . "controller/Home.php";
+        (new Home())->index();
+        break;
+    default:
+        require_once ROOT . "controller/Home.php";
+        (new Home())->pageNotFound404();
+}

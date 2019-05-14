@@ -1,7 +1,5 @@
 <?php
 
-require_once ROOT . "framework/Framework.php";
-
 class Home extends Framework
 {
 
@@ -13,20 +11,25 @@ class Home extends Framework
 
     public function index()
     {
-        $this->pageNotFinished();
+        $data['title'] = "Home | Jacynosoft";
+        $this->view('header', $data);
+        $this->view('home', $data);
+        $this->script('coreScripts');
+        $this->view('footer', $data);
     }
 
     public function pageNotFinished()
     {
-        $data['title'] = "Work in progress | English Learning";
+        $data['title'] = "Work in progress | Jacynosoft";
         $this->view('header', $data);
         $this->view('notFinished', $data);
         $this->script('coreScripts');
+        $this->view('footer', $data);
     }
 
     public function pageNotFound404()
     {
-        $data['title'] = "404 Not Found";
+        $data['title'] = "404 Not Found | Jacynosoft";
         $this->view('header', $data);
         $this->view('404', $data);
         $this->script('coreScripts');
