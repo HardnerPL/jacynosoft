@@ -13,8 +13,7 @@ class Home extends CI_Controller
 
         $data['title'] = "Home | JacynoSOFT";
         $this->load->view('templates/header', $data);
-        $this->load->view('templates/home', $data);
-        $this->load->view('scripts/coreScripts', $data);
-        $this->load->view('templates/footer', $data);
+        $this->load->view('home/home');
+        $this->load->view('templates/footer');
     }
 }
