@@ -11,15 +11,11 @@ body {
 }
 
 .navbar {
-	transition: background-color 500ms linear;
+	transition: background-color 200ms ease;
 }
 
-.navbar-brand {
-	transition: color 250ms linear;
-}
-
-.nav-link {
-	transition: color 250ms linear;
+.navbar-scrolled {
+	background-color: dodgerblue;
 }
 
 

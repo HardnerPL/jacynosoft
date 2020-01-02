@@ -1,5 +1,5 @@
 <div class="navbar navbar-dark navbar-expand-sm fixed-top">
-	<div class="container p-3">
+	<div class="container p-2">
 		<a class="navbar-brand" href="">
 			JacynoSOFT
 		</a>
