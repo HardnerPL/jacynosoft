@@ -10,6 +10,20 @@ body {
 	justify-content: center;
 }
 
+.navbar {
+	transition: background-color 500ms linear;
+}
+
+.navbar-brand {
+	transition: color 250ms linear;
+}
+
+.nav-link {
+	transition: color 250ms linear;
+}
+
+
+
 #motto-container {
 	align-content: center;
 	justify-content: center;
