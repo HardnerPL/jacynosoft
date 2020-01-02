@@ -15,7 +15,7 @@
     </div>
     <hr>
     <div class="text-center">
-        <img id="profile-img" src="/home/img/profile.jpg" alt="Profile image">
+        <img id="profile-img" src="assets/img/profile.jpg" alt="Profile image">
     </div>
     <div id="about-header" class="text-center">
         <span>Jacyno</span><span class="text-blue medium">SOFT</span>
