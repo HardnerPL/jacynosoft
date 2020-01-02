@@ -29,8 +29,8 @@
 		Fast. Minimalistic. Stylish.
 	</h1>
 </div>
-<div class="row">
-	<div class="col-12 col-sm-10 col-md-8 col-xl-6 offset-sm-1 offset-md-2 offset-xl-3 my-3">
+<div class="row my-4">
+	<div class="col-12 col-sm-10 col-md-8 col-xl-6 offset-sm-1 offset-md-2 offset-xl-3">
 		<div class="row">
 			<div class="col text-center">
 				<h1>O mnie</h1>
@@ -49,5 +49,17 @@
 				</p>
 			</div>
 		</div>
+	</div>
+</div>
+<hr class="w-75">
+<div class="row my-4">
+	<div class="col-10 offset-1 col-sm-8 offset-sm-2 col-lg-6 offset-lg-3 text-center">
+		<h1>Doświadczenie</h1>
+		<p class="my-auto">
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis, nisi sit amet iaculis
+			efficitur, libero metus bibendum arcu, auctor mollis arcu erat quis erat. Nunc tristique, metus
+			nec feugiat congue, ante lectus ultrices enim, et consequat mauris justo vitae erat. Duis vel nunc
+			euismod, iaculis orci vel, vestibulum metus.
+		</p>
 	</div>
 </div>
