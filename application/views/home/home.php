@@ -128,7 +128,7 @@
 					euismod, iaculis orci vel, vestibulum metus.
 				</p>
 			</div>
-			<div class="order-0 col-6 offset-3 offset-sm-0 col-sm-4 col-md-3 p-2 mr-4 content-center">
+			<div class="order-0 col-6 offset-3 offset-sm-0 col-sm-4 col-md-3 p-2 mr-4 content-center my-auto">
 				<img class="rounded-circle w-100" src="assets/img/profile.jpg">
 			</div>
 		</div>
