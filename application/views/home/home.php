@@ -149,3 +149,50 @@
 		</div>
 	</div>
 </div>
+<hr class="w-75">
+<div class="row my-5">
+	<div class="col-12 px-4 px-sm-0 col-sm-10 offset-sm-1">
+		<div class="row">
+			<div class="col">
+				<h1 class="text-center mb-4">Oferta</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-12 my-2 my-md-0 col-md-4 px-3 text-center">
+				<h3>Strona internetowa</h3>
+				<hr class="w-75 d-none d-md-block">
+				<p class="my-auto">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis, nisi sit amet iaculis
+					efficitur, libero metus bibendum arcu, auctor mollis arcu erat quis erat. Nunc tristique, metus
+					nec feugiat congue, ante lectus ultrices enim, et consequat mauris justo vitae erat. Duis vel
+					nunc
+					euismod, iaculis orci vel, vestibulum metus.
+				</p>
+			</div>
+			<hr class="w-75 d-block d-md-none">
+			<div class="col-12 my-2 my-md-0 col-md-4 px-3 text-center">
+				<h3>System CMS</h3>
+				<hr class="w-75 d-none d-md-block">
+				<p class="my-auto">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis, nisi sit amet iaculis
+					efficitur, libero metus bibendum arcu, auctor mollis arcu erat quis erat. Nunc tristique, metus
+					nec feugiat congue, ante lectus ultrices enim, et consequat mauris justo vitae erat. Duis vel
+					nunc
+					euismod, iaculis orci vel, vestibulum metus.
+				</p>
+			</div>
+			<hr class="w-75 d-block d-md-none">
+			<div class="col-12 my-2 my-md-0 col-md-4 px-3 text-center">
+				<h3>Hosting & Domena</h3>
+				<hr class="w-75 d-none d-md-block">
+				<p class="my-auto">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis, nisi sit amet iaculis
+					efficitur, libero metus bibendum arcu, auctor mollis arcu erat quis erat. Nunc tristique, metus
+					nec feugiat congue, ante lectus ultrices enim, et consequat mauris justo vitae erat. Duis vel
+					nunc
+					euismod, iaculis orci vel, vestibulum metus.
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
