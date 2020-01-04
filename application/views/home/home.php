@@ -1,6 +1,6 @@
 <div class="navbar navbar-dark navbar-expand-sm fixed-top">
 	<div class="container p-2">
-		<a class="navbar-brand" href="">
+		<a id="navbar-logo" class="navbar-brand border p-1" href="">
 			JacynoSOFT
 		</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
@@ -11,13 +11,13 @@
 				<li class="nav-item active">
 					<a class="mx-2 nav-link" href="">Start</a>
 				</li>
-				<li class="nav-item active">
+				<li class="nav-item">
 					<a class="mx-2 nav-link" href="">O mnie</a>
 				</li>
-				<li class="nav-item active">
+				<li class="nav-item">
 					<a class="mx-2 nav-link" href="">Projekty</a>
 				</li>
-				<li class="nav-item active">
+				<li class="nav-item">
 					<a class="mx-2 nav-link" href="">Kontakt</a>
 				</li>
 			</ul>
