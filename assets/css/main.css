@@ -18,6 +18,13 @@ body {
 	background-color: dodgerblue;
 }
 
+.experience-header {
+	font-size: 2.5rem;
+	border-style: solid;
+	border-color: #6f42c1;
+	color: #6f42c1;
+}
+
 #motto-container {
 	align-content: center;
 	justify-content: center;

@@ -66,8 +66,8 @@
 <hr class="w-25">
 <div class="row my-5">
 	<div class="col-12 px-4 px-sm-0 col-sm-8 offset-sm-2 col-md-4 offset-md-1 col-lg-3 offset-lg-2 text-center">
-		<h1>Back end</h1>
-		<p>
+		<span class="experience-header px-2">Back end</span>
+		<p class="mt-2">
 			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis, nisi sit amet iaculis
 			efficitur, libero metus bibendum arcu, auctor mollis arcu erat quis erat. Nunc tristique, metus
 			nec feugiat congue, ante lectus ultrices enim, et consequat mauris justo vitae erat. Duis vel nunc
@@ -76,8 +76,8 @@
 	</div>
 	<div
 		class="col-12 px-4 px-sm-0 col-sm-8 offset-sm-2 col-md-4 offset-md-2 col-lg-3 offset-lg-2 mt-5 mt-md-0 text-center">
-		<h1>Front end</h1>
-		<p>
+		<span class="experience-header px-2">Front end</span>
+		<p class="mt-2">
 			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis, nisi sit amet iaculis
 			efficitur, libero metus bibendum arcu, auctor mollis arcu erat quis erat. Nunc tristique, metus
 			nec feugiat congue, ante lectus ultrices enim, et consequat mauris justo vitae erat. Duis vel nunc
@@ -85,8 +85,8 @@
 		</p>
 	</div>
 	<div class="col-12 px-4 px-sm-0 col-sm-8 offset-sm-2 col-md-4 offset-md-4 mt-5 text-center">
-		<h1>UI/UX</h1>
-		<p>
+		<span class="experience-header px-2">UI/UX</span>
+		<p class="mt-2">
 			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis, nisi sit amet iaculis
 			efficitur, libero metus bibendum arcu, auctor mollis arcu erat quis erat. Nunc tristique, metus
 			nec feugiat congue, ante lectus ultrices enim, et consequat mauris justo vitae erat. Duis vel nunc
