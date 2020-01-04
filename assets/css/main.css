@@ -21,8 +21,17 @@ body {
 .experience-header {
 	font-size: 2.5rem;
 	border-style: solid;
-	border-color: #6f42c1;
-	color: #6f42c1;
+	border-color: #00B257;
+	color: #00B257;
+}
+
+.offer-container {
+	border-right: solid  1px #FF5D5C;
+}
+
+.offer-header {
+	font-size: 2rem;
+	color: #FF5D5C;
 }
 
 #motto-container {

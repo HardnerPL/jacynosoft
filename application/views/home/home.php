@@ -158,9 +158,8 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-12 my-2 my-md-0 col-md-4 px-3 text-center">
-				<h3>Strona internetowa</h3>
-				<hr class="w-75 d-none d-md-block">
+			<div class="col-12 my-2 my-lg-0 col-lg px-3 text-center py-3 offer-container">
+				<span class="offer-header">Strony internetowe</span>
 				<p class="my-auto">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis, nisi sit amet iaculis
 					efficitur, libero metus bibendum arcu, auctor mollis arcu erat quis erat. Nunc tristique, metus
@@ -169,10 +168,8 @@
 					euismod, iaculis orci vel, vestibulum metus.
 				</p>
 			</div>
-			<hr class="w-75 d-block d-md-none">
-			<div class="col-12 my-2 my-md-0 col-md-4 px-3 text-center">
-				<h3>System CMS</h3>
-				<hr class="w-75 d-none d-md-block">
+			<div class="col-12 my-2 my-lg-0 col-lg px-3 text-center py-3 offer-container">
+				<span class="offer-header">Systemy CMS</span>
 				<p class="my-auto">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis, nisi sit amet iaculis
 					efficitur, libero metus bibendum arcu, auctor mollis arcu erat quis erat. Nunc tristique, metus
@@ -181,10 +178,8 @@
 					euismod, iaculis orci vel, vestibulum metus.
 				</p>
 			</div>
-			<hr class="w-75 d-block d-md-none">
-			<div class="col-12 my-2 my-md-0 col-md-4 px-3 text-center">
-				<h3>Hosting & Domena</h3>
-				<hr class="w-75 d-none d-md-block">
+			<div class="col-12 my-2 my-lg-0 col-lg px-3 text-center py-3">
+				<span class="offer-header">Hosting & Domeny</span>
 				<p class="my-auto">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis, nisi sit amet iaculis
 					efficitur, libero metus bibendum arcu, auctor mollis arcu erat quis erat. Nunc tristique, metus
