@@ -9,16 +9,16 @@
 		<div class="collapse navbar-collapse justify-content-end" id="navbar">
 			<ul class="navbar-nav text-right">
 				<li class="nav-item active">
-					<a class="mx-2 nav-link" href="">Start</a>
+					<a class="mx-2 nav-link" href=""><?= $texts->home_nav ?></a>
 				</li>
 				<li class="nav-item">
-					<a class="mx-2 nav-link" href="">O mnie</a>
+					<a class="mx-2 nav-link" href=""><?= $texts->about_nav ?></a>
 				</li>
 				<li class="nav-item">
-					<a class="mx-2 nav-link" href="">Projekty</a>
+					<a class="mx-2 nav-link" href=""><?= $texts->projects_nav ?></a>
 				</li>
 				<li class="nav-item">
-					<a class="mx-2 nav-link" href="">Kontakt</a>
+					<a class="mx-2 nav-link" href=""><?= $texts->contact_nav ?></a>
 				</li>
 			</ul>
 		</div>
@@ -26,7 +26,7 @@
 </div>
 <div id="motto-container" class="row text-light">
 	<h1 id="motto-text" class="text-center">
-		Fast. Minimalistic. Stylish.
+		Szybkie. Stylowe. Niezawodne.
 	</h1>
 </div>
 <div class="row my-5">
