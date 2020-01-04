@@ -1,7 +1,7 @@
 body {
-    flex-direction: column;
+	flex-direction: column;
 	font-family: 'Raleway', sans-serif;
-    font-weight: 100;
+	font-weight: 100;
 }
 
 .content-center {
@@ -17,8 +17,6 @@ body {
 .navbar-scrolled {
 	background-color: dodgerblue;
 }
-
-
 
 #motto-container {
 	align-content: center;
