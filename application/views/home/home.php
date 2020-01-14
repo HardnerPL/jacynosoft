@@ -9,16 +9,16 @@
 		<div class="collapse navbar-collapse justify-content-end" id="navbar">
 			<ul class="navbar-nav text-right">
 				<li class="nav-item active">
-					<a class="mx-2 nav-link" href=""><?= $texts->home_nav ?></a>
+					<a class="mx-2 nav-link" href=""><?= get_property($lang,'home_nav') ?></a>
 				</li>
 				<li class="nav-item">
-					<a class="mx-2 nav-link" href=""><?= $texts->about_nav ?></a>
+					<a class="mx-2 nav-link" href=""><?= get_property($lang,'about_nav') ?></a>
 				</li>
 				<li class="nav-item">
-					<a class="mx-2 nav-link" href=""><?= $texts->projects_nav ?></a>
+					<a class="mx-2 nav-link" href=""><?= get_property($lang,'projects_nav') ?></a>
 				</li>
 				<li class="nav-item">
-					<a class="mx-2 nav-link" href=""><?= $texts->contact_nav ?></a>
+					<a class="mx-2 nav-link" href=""><?= get_property($lang,'contact_nav') ?></a>
 				</li>
 			</ul>
 		</div>
@@ -26,14 +26,14 @@
 </div>
 <div id="motto-container" class="row text-light">
 	<h1 id="motto-text" class="text-center">
-		Szybkie. Stylowe. Niezawodne.
+		<?= get_property($lang,'motto') ?>
 	</h1>
 </div>
 <div class="row my-5">
 	<div class="col-12 col-sm-10 col-md-8 col-xl-6 offset-sm-1 offset-md-2 offset-xl-3">
 		<div class="row">
 			<div class="col text-center">
-				<h1>O mnie</h1>
+				<h1><?= get_property($lang,'about_title') ?></h1>
 			</div>
 		</div>
 		<div class="row">
@@ -42,10 +42,7 @@
 			</div>
 			<div class="col-12 px-4 px-sm-0 col-sm offset-sm-0 p-2 content-center">
 				<p class="my-auto text-center text-sm-left">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis, nisi sit amet iaculis
-					efficitur, libero metus bibendum arcu, auctor mollis arcu erat quis erat. Nunc tristique, metus
-					nec feugiat congue, ante lectus ultrices enim, et consequat mauris justo vitae erat. Duis vel nunc
-					euismod, iaculis orci vel, vestibulum metus.
+					<?= get_property($lang,'about_content') ?>
 				</p>
 			</div>
 		</div>
@@ -54,7 +51,7 @@
 <hr class="w-75">
 <div class="row my-5">
 	<div class="col-12 px-4 px-sm-0 col-sm-8 offset-sm-2 col-lg-6 offset-lg-3 text-center">
-		<h1>Doświadczenie</h1>
+		<h1><?= get_property($lang,'experience_title') ?></h1>
 		<p>
 			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis, nisi sit amet iaculis
 			efficitur, libero metus bibendum arcu, auctor mollis arcu erat quis erat. Nunc tristique, metus
